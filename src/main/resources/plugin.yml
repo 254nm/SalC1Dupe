@@ -1,0 +1,7 @@
+name: SalC1Dupe
+version: ${project.version}
+main: org.l2x9.saldupe.Main
+prefix: SalC1Dupe
+authors: [245n_m]
+description: Plugin to enable the salc1 treemc dupe
+website: www.l2x9.org
